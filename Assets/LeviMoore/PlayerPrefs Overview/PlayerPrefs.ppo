@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>GameVersion</key>
+    <float>1.1</float>
+    <key>Health</key>
+    <integer>89</integer>
+    <key>Language</key>
+    <string>english</string>
+    <key>Level</key>
+    <integer>7</integer>
+    <key>PlayerName</key>
+    <string>360NoScope</string>
+    <key>PlayerPosX</key>
+    <float>72.2</float>
+    <key>PlayerPosY</key>
+    <float>7.04</float>
+    <key>PlayerPosZ</key>
+    <float>-204</float>
+  </dict>
+</plist>

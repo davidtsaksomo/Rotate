@@ -1,0 +1,47 @@
+Hierarchy Organizer v3.0
+
+By Isaiah Kelly 
+@IsaiahKelly on Twitter
+isaiah@dangerofdeath.com
+
+
+How to use:  
+
+After import all features can be found in the top menu bar in Unity.
+
+To sort everything in the hierarchy select [Tools -> Sort Hierarchy].
+To sort select objects, first highlight the object(s) then select [GameObject -> Sort Children].
+To move a GameObject up or down in the hierarchy, highlight it and then choose [GameObject -> Move Up/Down].
+For advanced options open the tool window by going to [Window -> Sorting]
+
+
+Change Log:
+
+1.0 
+
+Initial release
+
+2.0 
+
+Replaced the tool window with a simple drop-down menu and hotkeys.
+
+
+2.2
+
+Sorting of select objects is now automatically based on current selection.
+
+
+2.3
+
+Renamed the menu tab and nested it in existing menu to reduce clutter.
+
+3.0
+
+Added/Changed menu names and hotkeys.
+Added new editor window ("Window/Sorting").
+Added automatic sorting option (BETA).
+Added "Move Up" and "move Down" commands for GameObjects.
+
+3.1
+
+Changed "Sort Children" hotkey.
